@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Ana",
+      "empresa": "Casa",
+      "email": "anavarromarc@gmail.com",
+      "telefono": "646740134",
+      "notas": "peluqueria de ana",
+      "id": 2
+    }
+  ]
+}
